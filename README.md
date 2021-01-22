@@ -123,6 +123,7 @@ This classifier performed the best in labeling actual high risk and low risk gro
 The table below displays the summary of accuracy, precision, recall, and F1 score of all the 6 machine learning models used in this analysis. 
 
 Best Results: Easy Ensemble AdaBoost
+
 Worst Results: Cluster Centroids Undersampling
 
 ##### *Figure 2.1: Summary of six machine learning models result*
