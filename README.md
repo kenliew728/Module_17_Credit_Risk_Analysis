@@ -127,14 +127,11 @@ Best Results: Easy Ensemble AdaBoost
 Worst Results: Cluster Centroids Undersampling
 
 ##### *Figure 2.1: Summary of six machine learning models result*
-![Picture5](https://user-images.githubusercontent.com/70525492/105547476-2a6c0600-5cc4-11eb-9f36-e42b8d23070d.png)
+![Picture5](https://user-images.githubusercontent.com/70525492/105759263-dbb5aa80-5f15-11eb-9007-ce1038332ce9.png)
 
 
-##### *Table 2.2: Confusion matrix for Easy Ensemble AdaBoost*
-| Group     | Predicted True | Predicted False |
-| --------- | -------------- | --------------- |
-| High Risk | 93             | 8               |
-| Low Risk  | 983            | 16121           |
+
+
 
 
 
